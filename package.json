@@ -1,0 +1,14 @@
+{
+  "name": "hackersandhustlers",
+  "fullName": "Hackers and Hustlers",
+  "id": "jid1-Bvo3hSJVZSsqvg",
+  "description": "Facebook extension for H&H",
+  "author": "Nathan Cahill",
+  "license": "MPL 2.0",
+  "version": "0.1",
+  "permissions": {
+    "cross-domain-content": ["http://apiweb.io/"]
+  },
+  "icon": "icon.png",
+  "icon64": "icon64.png"
+}
