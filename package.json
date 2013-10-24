@@ -5,7 +5,7 @@
   "description": "Facebook extension for H&H",
   "author": "Nathan Cahill",
   "license": "MPL 2.0",
-  "version": "0.1",
+  "version": "0.2",
   "permissions": {
     "cross-domain-content": ["http://apiweb.io/"]
   },
